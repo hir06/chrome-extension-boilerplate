@@ -15,7 +15,7 @@ To test and run your Chrome extension, follow these steps:
 
 1. Open Google Chrome and navigate to `chrome://extensions/`.
 2. Enable "Developer mode" in the top right corner.
-3. Click "Load unpacked" and select the folder containing your extension files.
+3. Click "Load unpacked" and select the folder containing your `manifest.json` file.
 
 Your extension should now be loaded and visible in the extensions list. You can click on the extension icon to see the popup with the "Hello, World!" message and the "Click me" button.
 
