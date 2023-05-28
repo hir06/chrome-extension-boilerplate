@@ -17,7 +17,8 @@ To test and run your Chrome extension, follow these steps:
 2. Enable "Developer mode" in the top right corner.
 3. Click "Load unpacked" and select the folder containing your `manifest.json` file.
 
-Your extension should now be loaded and visible in the extensions list. You can click on the extension icon to see the popup with the "Hello, World!" message and the "Click me" button.
+- Your extension should now be loaded and visible in the extensions list. You can click on the extension icon to see the popup with the "Hello, World!" message and the "Click me" button.
+- This module has live reload enabled which will work in developer mode when some content changes in unbundled pack
 
 ## Customizing the Extension
 
